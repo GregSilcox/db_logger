@@ -1,0 +1,15 @@
+*.gem
+.bundle
+Gemfile.lock
+pkg/*
+Session.vim
+db/*.sqlite3
+vendor/*
+log/*.log
+tmp/**/*
+nbproject/*
+*.swp
+*.swo
+*.vim
+.rvmrc
+.sass-cache/
