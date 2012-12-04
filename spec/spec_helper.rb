@@ -1,2 +1,2 @@
-require 'db_logger/db_logger'
+require 'db_logger'
 require 'supermodel'

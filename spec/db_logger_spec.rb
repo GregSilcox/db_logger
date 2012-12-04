@@ -1,10 +1,10 @@
 require 'spec_helper'
 
+# Test methods...
 describe DbLogger do
   describe "debug" do
     it "adds a debug message to the table." do
-      result = DbLogger.debug "A test message"
-      result.should eq "A test message"
+      DbLogger.debug( "A test message" ).should eq( "Debug: A test message" )
     end
   end
 end
