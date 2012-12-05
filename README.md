@@ -1,4 +1,4 @@
-# DB Logger
+# DB Logger [![Build Status](https://secure.travis-ci.org/GregSilcox/db_logger.png)](http://travis-ci.org/GregSilcox/db_logger)
 
 Writes log messages to a database table.
 
